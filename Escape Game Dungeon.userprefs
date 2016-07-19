@@ -1,0 +1,33 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\3Dtext.shader">
+    <Files>
+      <File FileName="Assets\TextInformation.cs" Line="24" Column="119" />
+      <File FileName="Assets\Assets\Scripts\Classes\Items\Torch.cs" Line="10" Column="24" />
+      <File FileName="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" Line="172" Column="1" />
+      <File FileName="Assets\Assets\Scripts\Classes\Items\MainKey.cs" Line="1" Column="1" />
+      <File FileName="Assets\Medieval Dungeon\Scripts\MouseLook.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\Scripts\Classes\Doors\KeyDoor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\Scripts\Classes\Doors\LeverDoor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\Scripts\Classes\Doors\OpenDoor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\Scripts\Classes\Items\Barrel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\Scripts\Classes\Point.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\Scripts\Classes\Doors\ExitDoor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\Scripts\Classes\Doors\PuzzleDoor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\Scripts\Classes\Items\Lever.cs" Line="1" Column="1" />
+      <File FileName="Assets\PlayerManager.cs" Line="13" Column="41" />
+      <File FileName="Assets\Assets\Scripts\Puzzle\Cell.cs" Line="1" Column="1" />
+      <File FileName="Assets\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\groundsize.cs" Line="1" Column="1" />
+      <File FileName="Assets\wallsize.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\Scripts\Classes\Items\CommonKey.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\Scripts\Puzzle\PuzzleManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\ObjectiveA.cs" Line="43" Column="28" />
+      <File FileName="Assets\3Dtext.shader" Line="4" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
